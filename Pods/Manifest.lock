@@ -1,0 +1,301 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - AMPopTip (4.5.0)
+  - Branch (0.35.1)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - DropDown (2.3.13)
+  - Firebase/Analytics (6.34.0):
+    - Firebase/Core
+  - Firebase/Core (6.34.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 6.9.0)
+  - Firebase/CoreOnly (6.34.0):
+    - FirebaseCore (= 6.10.4)
+  - Firebase/Database (6.34.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (~> 6.6.0)
+  - Firebase/Messaging (6.34.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 4.7.1)
+  - Firebase/RemoteConfig (6.34.0):
+    - Firebase/CoreOnly
+    - FirebaseRemoteConfig (~> 4.9.1)
+  - FirebaseABTesting (4.2.0):
+    - FirebaseCore (~> 6.10)
+  - FirebaseAnalytics (6.9.0):
+    - FirebaseCore (~> 6.10)
+    - FirebaseInstallations (~> 1.7)
+    - GoogleAppMeasurement (= 6.9.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/MethodSwizzler (~> 6.7)
+    - GoogleUtilities/Network (~> 6.7)
+    - "GoogleUtilities/NSData+zlib (~> 6.7)"
+    - nanopb (~> 1.30906.0)
+  - FirebaseCore (6.10.4):
+    - FirebaseCoreDiagnostics (~> 1.6)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/Logger (~> 6.7)
+  - FirebaseCoreDiagnostics (1.7.0):
+    - GoogleDataTransport (~> 7.4)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/Logger (~> 6.7)
+    - nanopb (~> 1.30906.0)
+  - FirebaseDatabase (6.6.0):
+    - FirebaseCore (~> 6.10)
+    - leveldb-library (~> 1.22)
+  - FirebaseInstallations (1.7.0):
+    - FirebaseCore (~> 6.10)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/UserDefaults (~> 6.7)
+    - PromisesObjC (~> 1.2)
+  - FirebaseInstanceID (4.8.0):
+    - FirebaseCore (~> 6.10)
+    - FirebaseInstallations (~> 1.6)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/UserDefaults (~> 6.7)
+  - FirebaseMessaging (4.7.1):
+    - FirebaseCore (~> 6.10)
+    - FirebaseInstanceID (~> 4.7)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/Reachability (~> 6.7)
+    - GoogleUtilities/UserDefaults (~> 6.7)
+    - Protobuf (>= 3.9.2, ~> 3.9)
+  - FirebaseRemoteConfig (4.9.1):
+    - FirebaseABTesting (~> 4.2)
+    - FirebaseCore (~> 6.10)
+    - FirebaseInstallations (~> 1.6)
+    - GoogleUtilities/Environment (~> 6.7)
+    - "GoogleUtilities/NSData+zlib (~> 6.7)"
+  - Google-Mobile-Ads-SDK (7.67.0):
+    - GoogleAppMeasurement (~> 6.0)
+    - GoogleUserMessagingPlatform (~> 1.1)
+  - GoogleAppMeasurement (6.9.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/MethodSwizzler (~> 6.7)
+    - GoogleUtilities/Network (~> 6.7)
+    - "GoogleUtilities/NSData+zlib (~> 6.7)"
+    - nanopb (~> 1.30906.0)
+  - GoogleDataTransport (7.5.0):
+    - nanopb (~> 1.30906.0)
+  - GoogleUserMessagingPlatform (1.3.0)
+  - GoogleUtilities/AppDelegateSwizzler (6.7.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.7.2):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (6.7.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.7.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.7.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.7.2)"
+  - GoogleUtilities/Reachability (6.7.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (6.7.2):
+    - GoogleUtilities/Logger
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - ImageSlideshow (1.9.1):
+    - ImageSlideshow/Core (= 1.9.1)
+  - ImageSlideshow/Core (1.9.1)
+  - INSPhotoGallery (1.2.8)
+  - IQKeyboardManager (6.5.6)
+  - leveldb-library (1.22)
+  - LFLiveKit (2.6)
+  - lottie-ios (3.1.8)
+  - MarqueeLabel (4.0.5)
+  - MaterialShowcase (0.7.2)
+  - nanopb (1.30906.0):
+    - nanopb/decode (= 1.30906.0)
+    - nanopb/encode (= 1.30906.0)
+  - nanopb/decode (1.30906.0)
+  - nanopb/encode (1.30906.0)
+  - ObjectMapper (4.2.0)
+  - PromisesObjC (1.2.11)
+  - Protobuf (3.13.0)
+  - PryntTrimmerView (4.0.2)
+  - razorpay-pod (1.1.7)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.9.2):
+    - SDWebImage/Core (= 5.9.2)
+  - SDWebImage/Core (5.9.2)
+  - SideMenu (6.4.9)
+  - SKPhotoBrowser (6.1.0)
+  - Socket.IO-Client-Swift (13.2.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.6)
+  - SteviaLayout (4.7.3)
+  - Stripe (14.0.1)
+  - SwiftLinkPreview (3.1.0)
+  - SwiftLint (0.40.3)
+  - SwiftyJSON (5.0.0)
+  - TrueSDK (0.1.6)
+  - XLPagerTabStrip (9.0.0)
+  - YouTubePlayer (0.7.2)
+  - YoutubePlayer-in-WKWebView (0.3.4)
+  - YPImagePicker (4.4.0):
+    - PryntTrimmerView (~> 4.0.2)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire (~> 4.8.2)
+  - AlamofireImage (~> 3.5.2)
+  - AMPopTip
+  - Branch
+  - Charts
+  - DropDown
+  - Firebase/Analytics
+  - Firebase/Database
+  - Firebase/Messaging
+  - Firebase/RemoteConfig
+  - Google-Mobile-Ads-SDK
+  - IGListKit (~> 3.4.0)
+  - ImageSlideshow
+  - INSPhotoGallery
+  - IQKeyboardManager
+  - LFLiveKit
+  - lottie-ios
+  - MarqueeLabel
+  - MaterialShowcase
+  - ObjectMapper
+  - razorpay-pod (= 1.1.7)
+  - ReachabilitySwift
+  - SDWebImage
+  - SideMenu
+  - SKPhotoBrowser
+  - Socket.IO-Client-Swift (~> 13.2.0)
+  - Stripe (~> 14.0.1)
+  - SwiftLinkPreview
+  - SwiftLint
+  - SwiftyJSON
+  - TrueSDK
+  - XLPagerTabStrip
+  - YouTubePlayer
+  - YoutubePlayer-in-WKWebView
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - AMPopTip
+    - Branch
+    - Charts
+    - DropDown
+    - Firebase
+    - FirebaseABTesting
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseDatabase
+    - FirebaseInstallations
+    - FirebaseInstanceID
+    - FirebaseMessaging
+    - FirebaseRemoteConfig
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleUserMessagingPlatform
+    - GoogleUtilities
+    - IGListKit
+    - ImageSlideshow
+    - INSPhotoGallery
+    - IQKeyboardManager
+    - leveldb-library
+    - LFLiveKit
+    - lottie-ios
+    - MarqueeLabel
+    - MaterialShowcase
+    - nanopb
+    - ObjectMapper
+    - PromisesObjC
+    - Protobuf
+    - PryntTrimmerView
+    - razorpay-pod
+    - ReachabilitySwift
+    - SDWebImage
+    - SideMenu
+    - SKPhotoBrowser
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SteviaLayout
+    - Stripe
+    - SwiftLinkPreview
+    - SwiftLint
+    - SwiftyJSON
+    - TrueSDK
+    - XLPagerTabStrip
+    - YouTubePlayer
+    - YoutubePlayer-in-WKWebView
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  AMPopTip: e0ed2967892b18d1e55505c015fa06e535003fdc
+  Branch: 43863eab4c2339a58fa552f2f277139c3839dfb4
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Firebase: c23a36d9e4cdf7877dfcba8dd0c58add66358999
+  FirebaseABTesting: 8a9d8df3acc2b43f4a22014ddf9f601bca6af699
+  FirebaseAnalytics: 3bb096873ee0d7fa4b6c70f5e9166b6da413cc7f
+  FirebaseCore: d3a978a3cfa3240bf7e4ba7d137fdf5b22b628ec
+  FirebaseCoreDiagnostics: 770ac5958e1372ce67959ae4b4f31d8e127c3ac1
+  FirebaseDatabase: 13a865a4b85897462b930eb683bda8f52583713f
+  FirebaseInstallations: 466c7b4d1f58fe16707693091da253726a731ed2
+  FirebaseInstanceID: bd3ffc24367f901a43c063b36c640b345a4a5dd1
+  FirebaseMessaging: 5eca4ef173de76253352511aafef774caa1cba2a
+  FirebaseRemoteConfig: 35a729305f254fb15a2e541d4b36f3a379da7fdc
+  Google-Mobile-Ads-SDK: 8b58584890539de4527c47ef01e4da941a10bc8a
+  GoogleAppMeasurement: a6a3a066369828db64eda428cb2856dc1cdc7c4e
+  GoogleDataTransport: 445302b7da4216da63071a4c29e7023f47192e5a
+  GoogleUserMessagingPlatform: 1d4b6946710d18cec34742054092e2c2bddae61f
+  GoogleUtilities: 7f2f5a07f888cdb145101d6042bc4422f57e70b3
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  ImageSlideshow: 67184be896a28472bd3b906c33ce4e0734aa3d22
+  INSPhotoGallery: ad317cb9a59c7a5f08550e4155b49622c24dcab3
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  leveldb-library: 55d93ee664b4007aac644a782d11da33fba316f7
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+  MaterialShowcase: fb111392511e112c8d44908679d7db85b3a12fe9
+  nanopb: 59317e09cf1f1a0af72f12af412d54edf52603fc
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  PromisesObjC: 8c196f5a328c2cba3e74624585467a557dcb482f
+  Protobuf: 3dac39b34a08151c6d949560efe3f86134a3f748
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  razorpay-pod: 6ee0c8c7afad8eead9524d5eb516bc35ac1604ef
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: 0b42b8719ab0c5257177d5894306e8a336b21cbb
+  SideMenu: 8ef57a3cfc024a2d3fc1c036c7fe98537baec9e0
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  Socket.IO-Client-Swift: b94943e2fb916fe2f95244b9ed21828634002280
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  Stripe: 4305b646743612854819fb5d5cf67aaeb93577c0
+  SwiftLinkPreview: 3d924eeaae8d17410a827a4b37675713af1a0a8a
+  SwiftLint: dfd554ff0dff17288ee574814ccdd5cea85d76f7
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TrueSDK: 4c3e63340e75103e299169bbcd802d0dea99ce0b
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+  YouTubePlayer: 2b5f2830d8f9b2cde942083211291e382c9e6bd5
+  YoutubePlayer-in-WKWebView: af2f5929fc78882d94bfdfeea999b661b78d9717
+  YPImagePicker: 15aed8bcaa4dad976e11b6114126d731a2f9f3c9
+
+PODFILE CHECKSUM: 38dba5038796e7fd45a5f652b29ef980758a441c
+
+COCOAPODS: 1.9.3

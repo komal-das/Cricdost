@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14868" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="M4Y-Lb-cyx">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14824"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Notification View Controller-->
+        <scene sceneID="cwh-vc-ff4">
+            <objects>
+                <viewController id="M4Y-Lb-cyx" userLabel="Notification View Controller" customClass="NotificationViewController" customModule="Finished" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" simulatedAppContext="notificationCenter" id="S3S-Oj-5AN">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="68"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="acH-gt-OID" customClass="RoundedviewWithShadow" customModule="Finished" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="68"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nodata" translatesAutoresizingMaskIntoConstraints="NO" id="Pt0-rd-V5X">
+                                        <rect key="frame" x="20" y="14" width="40" height="40"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="40" id="W3K-h8-aPE"/>
+                                            <constraint firstAttribute="width" constant="40" id="k3g-xS-1pF"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Uploading 0%" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="js9-9m-nVA">
+                                        <rect key="frame" x="76" y="14" width="90" height="16.5"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progressViewStyle="bar" translatesAutoresizingMaskIntoConstraints="NO" id="m1I-vg-Icm">
+                                        <rect key="frame" x="76" y="40.5" width="224" height="2.5"/>
+                                        <color key="progressTintColor" red="0.87843137250000003" green="0.26274509800000001" blue="0.19215686269999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="trackTintColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </progressView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <constraints>
+                                    <constraint firstItem="Pt0-rd-V5X" firstAttribute="leading" secondItem="acH-gt-OID" secondAttribute="leading" constant="20" id="0v5-AF-arL"/>
+                                    <constraint firstItem="Pt0-rd-V5X" firstAttribute="centerY" secondItem="acH-gt-OID" secondAttribute="centerY" id="3i0-bL-XiN"/>
+                                    <constraint firstItem="m1I-vg-Icm" firstAttribute="leading" secondItem="Pt0-rd-V5X" secondAttribute="trailing" constant="16" id="D3d-FF-ik2"/>
+                                    <constraint firstAttribute="trailing" secondItem="m1I-vg-Icm" secondAttribute="trailing" constant="20" id="Fop-My-cFO"/>
+                                    <constraint firstItem="js9-9m-nVA" firstAttribute="leading" secondItem="Pt0-rd-V5X" secondAttribute="trailing" constant="16" id="G0B-wC-rIh"/>
+                                    <constraint firstItem="Pt0-rd-V5X" firstAttribute="top" secondItem="js9-9m-nVA" secondAttribute="top" id="NF4-H5-HWZ"/>
+                                    <constraint firstAttribute="height" constant="68" id="Q4G-dd-jRn"/>
+                                    <constraint firstItem="m1I-vg-Icm" firstAttribute="top" secondItem="js9-9m-nVA" secondAttribute="bottom" constant="10" id="o7H-od-MJc"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="acH-gt-OID" firstAttribute="top" secondItem="S3S-Oj-5AN" secondAttribute="top" id="Ljm-PK-maA"/>
+                            <constraint firstItem="acH-gt-OID" firstAttribute="leading" secondItem="S3S-Oj-5AN" secondAttribute="leading" id="PO9-vw-dgw"/>
+                            <constraint firstAttribute="bottom" secondItem="acH-gt-OID" secondAttribute="bottom" id="hGE-Xj-NlI"/>
+                            <constraint firstAttribute="trailing" secondItem="acH-gt-OID" secondAttribute="trailing" id="vsX-sJ-6FO"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="2BE-c3-nQJ"/>
+                    </view>
+                    <extendedEdge key="edgesForExtendedLayout"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="68"/>
+                    <connections>
+                        <outlet property="percentageLabel" destination="js9-9m-nVA" id="QUk-dm-y6i"/>
+                        <outlet property="progressBar" destination="m1I-vg-Icm" id="FGs-3h-gcX"/>
+                        <outlet property="uploadingView" destination="acH-gt-OID" id="m4j-R5-dCW"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vXp-U4-Rya" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="14" y="24"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="nodata" width="216" height="216"/>
+    </resources>
+</document>

@@ -1,0 +1,6 @@
+framework module Pods_CricDostUITests {
+  umbrella header "Pods-CricDostUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

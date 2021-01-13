@@ -1,0 +1,6 @@
+framework module Pods_BDCI {
+  umbrella header "Pods-BDCI-umbrella.h"
+
+  export *
+  module * { export * }
+}
