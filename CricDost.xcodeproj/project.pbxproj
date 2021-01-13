@@ -3870,6 +3870,31 @@
 		8E4A8869258B2517004DF5B5 /* TitleOverallOutStatisticsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A8866258B2516004DF5B5 /* TitleOverallOutStatisticsTableViewCell.swift */; };
 		8E4A886A258B2517004DF5B5 /* TitleOverallOutStatisticsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A8866258B2516004DF5B5 /* TitleOverallOutStatisticsTableViewCell.swift */; };
 		8E4A886B258B2517004DF5B5 /* TitleOverallOutStatisticsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A8866258B2516004DF5B5 /* TitleOverallOutStatisticsTableViewCell.swift */; };
+		8E6BA39425A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39325A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift */; };
+		8E6BA39525A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39325A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift */; };
+		8E6BA39625A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39325A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift */; };
+		8E6BA39725A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39325A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift */; };
+		8E6BA39825A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39325A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift */; };
+		8E6BA39B25A344D600E58D35 /* GoProViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39A25A344D600E58D35 /* GoProViewModel.swift */; };
+		8E6BA39C25A344D600E58D35 /* GoProViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39A25A344D600E58D35 /* GoProViewModel.swift */; };
+		8E6BA39D25A344D600E58D35 /* GoProViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39A25A344D600E58D35 /* GoProViewModel.swift */; };
+		8E6BA39E25A344D600E58D35 /* GoProViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39A25A344D600E58D35 /* GoProViewModel.swift */; };
+		8E6BA39F25A344D600E58D35 /* GoProViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA39A25A344D600E58D35 /* GoProViewModel.swift */; };
+		8E6BA3A125A3588000E58D35 /* GoPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA3A025A3588000E58D35 /* GoPro.swift */; };
+		8E6BA3A225A3588000E58D35 /* GoPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA3A025A3588000E58D35 /* GoPro.swift */; };
+		8E6BA3A325A3588000E58D35 /* GoPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA3A025A3588000E58D35 /* GoPro.swift */; };
+		8E6BA3A425A3588000E58D35 /* GoPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA3A025A3588000E58D35 /* GoPro.swift */; };
+		8E6BA3A525A3588000E58D35 /* GoPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6BA3A025A3588000E58D35 /* GoPro.swift */; };
+		8E6E66BE25A36989000623E6 /* GoProManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66BD25A36989000623E6 /* GoProManager.swift */; };
+		8E6E66BF25A36989000623E6 /* GoProManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66BD25A36989000623E6 /* GoProManager.swift */; };
+		8E6E66C025A36989000623E6 /* GoProManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66BD25A36989000623E6 /* GoProManager.swift */; };
+		8E6E66C125A36989000623E6 /* GoProManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66BD25A36989000623E6 /* GoProManager.swift */; };
+		8E6E66C225A36989000623E6 /* GoProManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66BD25A36989000623E6 /* GoProManager.swift */; };
+		8E6E66C425A4FA83000623E6 /* PremiumUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66C325A4FA83000623E6 /* PremiumUserViewController.swift */; };
+		8E6E66C525A4FA83000623E6 /* PremiumUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66C325A4FA83000623E6 /* PremiumUserViewController.swift */; };
+		8E6E66C625A4FA83000623E6 /* PremiumUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66C325A4FA83000623E6 /* PremiumUserViewController.swift */; };
+		8E6E66C725A4FA83000623E6 /* PremiumUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66C325A4FA83000623E6 /* PremiumUserViewController.swift */; };
+		8E6E66C825A4FA84000623E6 /* PremiumUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E6E66C325A4FA83000623E6 /* PremiumUserViewController.swift */; };
 		8E76A57B2578F4C300B7506C /* PerformanceStatsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E76A57A2578F4C300B7506C /* PerformanceStatsTableViewCell.swift */; };
 		8E76A57C2578F50300B7506C /* PerformanceStatsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E76A57A2578F4C300B7506C /* PerformanceStatsTableViewCell.swift */; };
 		8E76A57D2578F50400B7506C /* PerformanceStatsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E76A57A2578F4C300B7506C /* PerformanceStatsTableViewCell.swift */; };
@@ -4983,6 +5008,11 @@
 		8E4A88542589E105004DF5B5 /* GraphXAxisFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphXAxisFormatter.swift; sourceTree = "<group>"; };
 		8E4A885A258A57E6004DF5B5 /* OverallOutStatisticsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverallOutStatisticsTableViewCell.swift; sourceTree = "<group>"; };
 		8E4A8866258B2516004DF5B5 /* TitleOverallOutStatisticsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleOverallOutStatisticsTableViewCell.swift; sourceTree = "<group>"; };
+		8E6BA39325A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumFeaturesCollectionViewCell.swift; sourceTree = "<group>"; };
+		8E6BA39A25A344D600E58D35 /* GoProViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoProViewModel.swift; sourceTree = "<group>"; };
+		8E6BA3A025A3588000E58D35 /* GoPro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoPro.swift; sourceTree = "<group>"; };
+		8E6E66BD25A36989000623E6 /* GoProManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoProManager.swift; sourceTree = "<group>"; };
+		8E6E66C325A4FA83000623E6 /* PremiumUserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PremiumUserViewController.swift; sourceTree = "<group>"; };
 		8E76A57A2578F4C300B7506C /* PerformanceStatsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformanceStatsTableViewCell.swift; sourceTree = "<group>"; };
 		8E8F942E25724F320086B944 /* PaddingLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingLabel.swift; sourceTree = "<group>"; };
 		8ED452F2258BFDC60042FDD0 /* OverallOutStatisticsCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverallOutStatisticsCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -6569,8 +6599,10 @@
 		6D6E8EA6259211CF00C13FFE /* GoPro */ = {
 			isa = PBXGroup;
 			children = (
-				6D6E8EAC2592125400C13FFE /* ViewControllers */,
 				6D6E8EA7259211DB00C13FFE /* Storyboards */,
+				8E6BA39925A344B100E58D35 /* ViewModel */,
+				6D6E8EAC2592125400C13FFE /* ViewControllers */,
+				8E6BA39225A3262A00E58D35 /* CollectionViewCell */,
 			);
 			path = GoPro;
 			sourceTree = "<group>";
@@ -6587,6 +6619,7 @@
 			isa = PBXGroup;
 			children = (
 				6D6E8EC5259212AA00C13FFE /* GoProViewController.swift */,
+				8E6E66C325A4FA83000623E6 /* PremiumUserViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -7596,6 +7629,7 @@
 				6DA77486249C95110081069E /* OfflineSyncManager.swift */,
 				6DE2572A24E25EA800E5C980 /* WCRegistrationManager.swift */,
 				8E409CAB257267500084CEEE /* BattingInsightsManager.swift */,
+				8E6E66BD25A36989000623E6 /* GoProManager.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -7659,6 +7693,7 @@
 				B6B7EF44242247FE00D794F5 /* Gallery.swift */,
 				6D7D532C24E26AA800C1D295 /* WCRegistration.swift */,
 				8E409CAF25727C600084CEEE /* BattingInsights.swift */,
+				8E6BA3A025A3588000E58D35 /* GoPro.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -7964,6 +7999,22 @@
 				8E409CA72572666F0084CEEE /* BattingInsightsViewModel.swift */,
 				8E8F942E25724F320086B944 /* PaddingLabel.swift */,
 				8E4A88542589E105004DF5B5 /* GraphXAxisFormatter.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		8E6BA39225A3262A00E58D35 /* CollectionViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				8E6BA39325A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift */,
+			);
+			path = CollectionViewCell;
+			sourceTree = "<group>";
+		};
+		8E6BA39925A344B100E58D35 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				8E6BA39A25A344D600E58D35 /* GoProViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -10185,6 +10236,7 @@
 				6D150A6A2572386D008A28D9 /* TourDetailManager.swift in Sources */,
 				6D150A6B2572386D008A28D9 /* BowlingProfileViewController.swift in Sources */,
 				6D150A6C2572386D008A28D9 /* AddAlbumsCollectionViewCell.swift in Sources */,
+				8E6BA39E25A344D600E58D35 /* GoProViewModel.swift in Sources */,
 				6D150A6D2572386D008A28D9 /* BattingProfileViewController.swift in Sources */,
 				6D150A6E2572386D008A28D9 /* LiveScoresCollectionViewCell.swift in Sources */,
 				6D150A6F2572386D008A28D9 /* ProductDetailsCollectionViewCell.swift in Sources */,
@@ -10272,6 +10324,7 @@
 				6D150ABD2572386D008A28D9 /* ConfirmSendMoneyViewController.swift in Sources */,
 				6D150ABE2572386D008A28D9 /* MoveToWalletViewController.swift in Sources */,
 				6D150ABF2572386D008A28D9 /* GroundDetailViewController.swift in Sources */,
+				8E6E66C725A4FA83000623E6 /* PremiumUserViewController.swift in Sources */,
 				6D150AC02572386D008A28D9 /* ReScheduleMacthView.swift in Sources */,
 				6D150AC12572386D008A28D9 /* InviteAndEarnViewController.swift in Sources */,
 				6D150AC22572386D008A28D9 /* WCRegistrationViewController.swift in Sources */,
@@ -10379,6 +10432,7 @@
 				6D150B252572386D008A28D9 /* ReportPost.swift in Sources */,
 				6D6E8EC9259212AA00C13FFE /* GoProViewController.swift in Sources */,
 				6D150B262572386D008A28D9 /* CSImageTableViewCell.swift in Sources */,
+				8E6BA39725A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */,
 				6D150B272572386D008A28D9 /* CareerCollectionViewCell.swift in Sources */,
 				6D150B282572386D008A28D9 /* SquadTableViewCell.swift in Sources */,
 				6D150B292572386D008A28D9 /* MyTeamCell.swift in Sources */,
@@ -10475,6 +10529,7 @@
 				6D150B822572386D008A28D9 /* SquadsViewController.swift in Sources */,
 				6D150B832572386D008A28D9 /* FixedMatchesCollectionViewCell.swift in Sources */,
 				6D150B842572386D008A28D9 /* TourRulesView.swift in Sources */,
+				8E6BA3A425A3588000E58D35 /* GoPro.swift in Sources */,
 				6D150B852572386D008A28D9 /* OrganizerProfileViewController.swift in Sources */,
 				6D150B862572386D008A28D9 /* WCRequestViewController.swift in Sources */,
 				6D150B872572386D008A28D9 /* BestBatsmanNewCollectionViewCell.swift in Sources */,
@@ -10551,6 +10606,7 @@
 				6D150BCD2572386D008A28D9 /* CDNPostModel.swift in Sources */,
 				6D150BCE2572386D008A28D9 /* EditGroupNameView.swift in Sources */,
 				6D150BCF2572386D008A28D9 /* MomentsCollectionViewCell.swift in Sources */,
+				8E6E66C125A36989000623E6 /* GoProManager.swift in Sources */,
 				6D150BD02572386D008A28D9 /* FlashNewsManager.swift in Sources */,
 				6D150BD12572386D008A28D9 /* GroundsTableViewCell.swift in Sources */,
 				6D150BD22572386D008A28D9 /* CDNTeamViewModel.swift in Sources */,
@@ -10861,6 +10917,7 @@
 				6D7FC919236464860085D211 /* FeedbackViewController.swift in Sources */,
 				6D63B77523BF6BCE00B839DD /* TourDetailManager.swift in Sources */,
 				6D31193C23796F2300DB50FF /* BowlingProfileViewController.swift in Sources */,
+				8E6BA39B25A344D600E58D35 /* GoProViewModel.swift in Sources */,
 				AC8DE3F523B5C3E80011D5FD /* AddAlbumsCollectionViewCell.swift in Sources */,
 				6D31193B23796F2300DB50FF /* BattingProfileViewController.swift in Sources */,
 				6DE6C01A238400FC0083B9A5 /* LiveScoresCollectionViewCell.swift in Sources */,
@@ -10948,6 +11005,7 @@
 				AC07FAED239F7AF200CC249D /* WalletManager.swift in Sources */,
 				AC2BB5A023A225CA00EE514B /* ConfirmSendMoneyViewController.swift in Sources */,
 				ACFD0F9223A3674C0043C68B /* MoveToWalletViewController.swift in Sources */,
+				8E6E66C425A4FA83000623E6 /* PremiumUserViewController.swift in Sources */,
 				6D1B83FF23E05C13002110C8 /* GroundDetailViewController.swift in Sources */,
 				B67CCDA723FE634900527C64 /* ReScheduleMacthView.swift in Sources */,
 				ACE4BC9F23AB9EE5007F3E47 /* InviteAndEarnViewController.swift in Sources */,
@@ -11055,6 +11113,7 @@
 				6D5E795523B23F390072460B /* BowlingStyleViewController.swift in Sources */,
 				6D6E8EC6259212AA00C13FFE /* GoProViewController.swift in Sources */,
 				6D7BE44E239E0A90003FBD09 /* ReportPost.swift in Sources */,
+				8E6BA39425A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */,
 				6DA1FEF523966F130081E6B2 /* CSImageTableViewCell.swift in Sources */,
 				6D311942237970AB00DB50FF /* CareerCollectionViewCell.swift in Sources */,
 				6D94263823AB40E9002B9F3E /* SquadTableViewCell.swift in Sources */,
@@ -11151,6 +11210,7 @@
 				6DB87E7523D8543B00BFC265 /* MatchAwardsViewController.swift in Sources */,
 				6D9900A823BB61510087F534 /* InterTeamAInning2ViewController.swift in Sources */,
 				6D94263423AB34E6002B9F3E /* SquadsViewController.swift in Sources */,
+				8E6BA3A125A3588000E58D35 /* GoPro.swift in Sources */,
 				C2DB58FA239E13310075AD02 /* FixedMatchesCollectionViewCell.swift in Sources */,
 				6DD5C48923C5B2BA00031B27 /* TourRulesView.swift in Sources */,
 				6D809419241A1EA7003B7468 /* OrganizerProfileViewController.swift in Sources */,
@@ -11227,6 +11287,7 @@
 				C2B0D21823B0A6F8004E2E99 /* InviteCDplayerView.swift in Sources */,
 				6D0B73C224F262450092A2DE /* CDNPostModel.swift in Sources */,
 				6D3603D023D56B6B007C43EE /* EditGroupNameView.swift in Sources */,
+				8E6E66BE25A36989000623E6 /* GoProManager.swift in Sources */,
 				6D61A33623A35EEC005312C2 /* MomentsCollectionViewCell.swift in Sources */,
 				6DCA8AFE23E3F84A0010A6E5 /* FlashNewsManager.swift in Sources */,
 				6DC257D524164603001EF25B /* GroundsTableViewCell.swift in Sources */,
@@ -11563,6 +11624,7 @@
 				6D7BE89F2580C375007E4F5D /* TourDetailManager.swift in Sources */,
 				6D7BE8A02580C375007E4F5D /* BowlingProfileViewController.swift in Sources */,
 				6D7BE8A12580C375007E4F5D /* AddAlbumsCollectionViewCell.swift in Sources */,
+				8E6BA39F25A344D600E58D35 /* GoProViewModel.swift in Sources */,
 				6D7BE8A22580C375007E4F5D /* BattingProfileViewController.swift in Sources */,
 				6D7BE8A32580C375007E4F5D /* LiveScoresCollectionViewCell.swift in Sources */,
 				6D7BE8A42580C375007E4F5D /* ProductDetailsCollectionViewCell.swift in Sources */,
@@ -11650,6 +11712,7 @@
 				6D7BE8F32580C375007E4F5D /* ConfirmSendMoneyViewController.swift in Sources */,
 				6D7BE8F42580C375007E4F5D /* MoveToWalletViewController.swift in Sources */,
 				6D7BE8F52580C375007E4F5D /* GroundDetailViewController.swift in Sources */,
+				8E6E66C825A4FA84000623E6 /* PremiumUserViewController.swift in Sources */,
 				6D7BE8F62580C375007E4F5D /* ReScheduleMacthView.swift in Sources */,
 				6D7BE8F72580C375007E4F5D /* InviteAndEarnViewController.swift in Sources */,
 				6D7BE8F82580C375007E4F5D /* WCRegistrationViewController.swift in Sources */,
@@ -11757,6 +11820,7 @@
 				6D7BE95C2580C375007E4F5D /* ReportPost.swift in Sources */,
 				6D6E8ECA259212AA00C13FFE /* GoProViewController.swift in Sources */,
 				6D7BE95D2580C375007E4F5D /* CSImageTableViewCell.swift in Sources */,
+				8E6BA39825A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */,
 				6D7BE95E2580C375007E4F5D /* CareerCollectionViewCell.swift in Sources */,
 				6D7BE95F2580C375007E4F5D /* SquadTableViewCell.swift in Sources */,
 				6D7BE9602580C375007E4F5D /* MyTeamCell.swift in Sources */,
@@ -11853,6 +11917,7 @@
 				6D7BE9BA2580C375007E4F5D /* SquadsViewController.swift in Sources */,
 				6D7BE9BB2580C375007E4F5D /* FixedMatchesCollectionViewCell.swift in Sources */,
 				6D7BE9BC2580C375007E4F5D /* TourRulesView.swift in Sources */,
+				8E6BA3A525A3588000E58D35 /* GoPro.swift in Sources */,
 				6D7BE9BD2580C375007E4F5D /* OrganizerProfileViewController.swift in Sources */,
 				6D7BE9BE2580C375007E4F5D /* WCRequestViewController.swift in Sources */,
 				6D7BE9BF2580C375007E4F5D /* BestBatsmanNewCollectionViewCell.swift in Sources */,
@@ -11929,6 +11994,7 @@
 				6D7BEA052580C375007E4F5D /* CDNPostModel.swift in Sources */,
 				6D7BEA062580C375007E4F5D /* EditGroupNameView.swift in Sources */,
 				6D7BEA072580C375007E4F5D /* MomentsCollectionViewCell.swift in Sources */,
+				8E6E66C225A36989000623E6 /* GoProManager.swift in Sources */,
 				6D7BEA082580C375007E4F5D /* FlashNewsManager.swift in Sources */,
 				6D7BEA092580C375007E4F5D /* GroundsTableViewCell.swift in Sources */,
 				6D7BEA0A2580C375007E4F5D /* CDNTeamViewModel.swift in Sources */,
@@ -12239,6 +12305,7 @@
 				6D8D5487255D06970089E4A5 /* FeedbackViewController.swift in Sources */,
 				6D8D5488255D06970089E4A5 /* TourDetailManager.swift in Sources */,
 				6D8D5489255D06970089E4A5 /* BowlingProfileViewController.swift in Sources */,
+				8E6BA39D25A344D600E58D35 /* GoProViewModel.swift in Sources */,
 				6D8D548A255D06970089E4A5 /* AddAlbumsCollectionViewCell.swift in Sources */,
 				6D8D548B255D06970089E4A5 /* BattingProfileViewController.swift in Sources */,
 				6D8D548C255D06970089E4A5 /* LiveScoresCollectionViewCell.swift in Sources */,
@@ -12326,6 +12393,7 @@
 				6D8D54DA255D06970089E4A5 /* WalletManager.swift in Sources */,
 				6D8D54DB255D06970089E4A5 /* ConfirmSendMoneyViewController.swift in Sources */,
 				6D8D54DC255D06970089E4A5 /* MoveToWalletViewController.swift in Sources */,
+				8E6E66C625A4FA83000623E6 /* PremiumUserViewController.swift in Sources */,
 				6D8D54DD255D06970089E4A5 /* GroundDetailViewController.swift in Sources */,
 				6D8D54DE255D06970089E4A5 /* ReScheduleMacthView.swift in Sources */,
 				6D8D54DF255D06970089E4A5 /* InviteAndEarnViewController.swift in Sources */,
@@ -12433,6 +12501,7 @@
 				6D8D5540255D06970089E4A5 /* BowlingStyleViewController.swift in Sources */,
 				6D6E8EC8259212AA00C13FFE /* GoProViewController.swift in Sources */,
 				6D8D5541255D06970089E4A5 /* ReportPost.swift in Sources */,
+				8E6BA39625A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */,
 				6D8D5542255D06970089E4A5 /* CSImageTableViewCell.swift in Sources */,
 				6D8D5543255D06970089E4A5 /* CareerCollectionViewCell.swift in Sources */,
 				6D8D5544255D06970089E4A5 /* SquadTableViewCell.swift in Sources */,
@@ -12529,6 +12598,7 @@
 				6D8D559B255D06970089E4A5 /* MatchAwardsViewController.swift in Sources */,
 				6D8D559C255D06970089E4A5 /* InterTeamAInning2ViewController.swift in Sources */,
 				6D8D559D255D06970089E4A5 /* SquadsViewController.swift in Sources */,
+				8E6BA3A325A3588000E58D35 /* GoPro.swift in Sources */,
 				6D8D559E255D06970089E4A5 /* FixedMatchesCollectionViewCell.swift in Sources */,
 				6D8D559F255D06970089E4A5 /* TourRulesView.swift in Sources */,
 				6D8D55A0255D06970089E4A5 /* OrganizerProfileViewController.swift in Sources */,
@@ -12605,6 +12675,7 @@
 				6D8D55E7255D06970089E4A5 /* InviteCDplayerView.swift in Sources */,
 				6D8D55E8255D06970089E4A5 /* CDNPostModel.swift in Sources */,
 				6D8D55E9255D06970089E4A5 /* EditGroupNameView.swift in Sources */,
+				8E6E66C025A36989000623E6 /* GoProManager.swift in Sources */,
 				6D8D55EA255D06970089E4A5 /* MomentsCollectionViewCell.swift in Sources */,
 				6D8D55EB255D06970089E4A5 /* FlashNewsManager.swift in Sources */,
 				6D8D55EC255D06970089E4A5 /* GroundsTableViewCell.swift in Sources */,
@@ -12915,6 +12986,7 @@
 				6DC1BA0524B70096007F607B /* AddGuestPlayerView.swift in Sources */,
 				6DC1BA0624B70096007F607B /* UIView+Extensions.swift in Sources */,
 				6DC1BA0724B70096007F607B /* GroupHeaderTableViewCell.swift in Sources */,
+				8E6BA39C25A344D600E58D35 /* GoProViewModel.swift in Sources */,
 				6DC1BA0824B70096007F607B /* FeedbackViewController.swift in Sources */,
 				6DC1BA0924B70096007F607B /* TourDetailManager.swift in Sources */,
 				6DC1BA0A24B70096007F607B /* BowlingProfileViewController.swift in Sources */,
@@ -13002,6 +13074,7 @@
 				6DC1BA4224B70096007F607B /* CSTeamCollectionViewCell.swift in Sources */,
 				6DC1BA4324B70096007F607B /* UICollectionViewCell+Extensions.swift in Sources */,
 				6DC1BA4424B70096007F607B /* WalletManager.swift in Sources */,
+				8E6E66C525A4FA83000623E6 /* PremiumUserViewController.swift in Sources */,
 				6DC1BA4524B70096007F607B /* ConfirmSendMoneyViewController.swift in Sources */,
 				6DC1BA4624B70096007F607B /* MoveToWalletViewController.swift in Sources */,
 				6DC1BA4724B70096007F607B /* GroundDetailViewController.swift in Sources */,
@@ -13109,6 +13182,7 @@
 				6DC1BA9024B70096007F607B /* AddWicketViewController.swift in Sources */,
 				6D6E8EC7259212AA00C13FFE /* GoProViewController.swift in Sources */,
 				6DC1BA9224B70096007F607B /* PostNowViewController.swift in Sources */,
+				8E6BA39525A3267600E58D35 /* PremiumFeaturesCollectionViewCell.swift in Sources */,
 				6DC1BA9324B70096007F607B /* BowlingStyleViewController.swift in Sources */,
 				6DC1BA9424B70096007F607B /* ReportPost.swift in Sources */,
 				6DC1BA9524B70096007F607B /* CSImageTableViewCell.swift in Sources */,
@@ -13205,6 +13279,7 @@
 				6DC1BADB24B70096007F607B /* ChooseTournamentTeamsView.swift in Sources */,
 				6DC1BADC24B70096007F607B /* MatchAwardsViewController.swift in Sources */,
 				6DC1BADD24B70096007F607B /* InterTeamAInning2ViewController.swift in Sources */,
+				8E6BA3A225A3588000E58D35 /* GoPro.swift in Sources */,
 				6DC1BADE24B70096007F607B /* SquadsViewController.swift in Sources */,
 				6DC1BADF24B70096007F607B /* FixedMatchesCollectionViewCell.swift in Sources */,
 				6D75C04F24EBD7B100E1E39A /* LoginViewController.swift in Sources */,
@@ -13281,6 +13356,7 @@
 				6DC1BB1124B70096007F607B /* InviteCDplayerView.swift in Sources */,
 				6D0B73C324F262450092A2DE /* CDNPostModel.swift in Sources */,
 				6DC1BB1224B70096007F607B /* EditGroupNameView.swift in Sources */,
+				8E6E66BF25A36989000623E6 /* GoProManager.swift in Sources */,
 				6DC1BB1324B70096007F607B /* MomentsCollectionViewCell.swift in Sources */,
 				6DC1BB1424B70096007F607B /* FlashNewsManager.swift in Sources */,
 				6DC1BB1524B70096007F607B /* GroundsTableViewCell.swift in Sources */,
